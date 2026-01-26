@@ -21,7 +21,7 @@ Docker, Django, REST APIs, CI/CD
 
 ---
 
-## 🚀 End-to-End Projects
+## 🚀 End-to-End Projects on real world data 
 
 ### [Improved Detection of Fraud Cases](https://github.com/Ermon1/Improved_detection_of_fraud_cases_for_e-commerce_and_bank_transactions)
 Python & Jupyter Notebook | E-commerce & Banking  
