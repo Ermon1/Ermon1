@@ -59,11 +59,7 @@ Python | Neural Networks
 
 ---
 
-## ✨ Fun Stats & Activity
-![Ermias's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ermon1&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ermon1&layout=compact&theme=radical)
 
----
 
 ## 📫 Contact Me
 - [LinkedIn](https://www.linkedin.com/in/ermias-brhane)  
