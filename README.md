@@ -21,31 +21,39 @@ Docker, Django, REST APIs, CI/CD
 
 ---
 
-## 🚀 End-to-End Projects on real world data 
+## 🚀 End-to-End Projects on Real-World Data
 
 ### [Improved Detection of Fraud Cases](https://github.com/Ermon1/Improved_detection_of_fraud_cases_for_e-commerce_and_bank_transactions)
+![Fraud Detection](https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif)  
 Python & Jupyter Notebook | E-commerce & Banking  
 💡 **End-to-End:** From raw transaction data → feature engineering → ML modeling → deployment-ready fraud detection pipeline.  
 
 ### [Credit Risk Probability Model](https://github.com/Ermon1/Credit_Risk_Probability_Model)
+![Credit Risk](https://media.giphy.com/media/3o7TKP2YQm2u0lAxYw/giphy.gif)  
 Jupyter Notebook | End-to-End ML  
 💡 **End-to-End:** Data ingestion, preprocessing, model training, evaluation, and automated credit risk scoring system deployment.  
 
 ### [End-to-End Insurance Risk Analytics](https://github.com/Ermon1/End-to-End_Insurance_Risk_Analytics_Predictive-Modeling)
+![Insurance Analytics](https://media.giphy.com/media/3o6ZsYhRWfC7aVbH6I/giphy.gif)  
 Jupyter Notebook | Insurance Analytics  
 💡 **End-to-End:** Collect insurance datasets → predictive modeling → performance evaluation → actionable insights for risk management.  
 
 ### [Customer Experience Analytics for Fintech Apps](https://github.com/Ermon1/Customer_Experience_Analytics_for_Fintech_Apps)
+![Data Analytics](https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif)  
 Jupyter Notebook | Data Engineering & Visualization  
 💡 **End-to-End:** Scraped app reviews → cleaned & processed text → analyzed sentiment & trends → visualized insights for product teams.  
 
 ### [Predicting Price Moves with News Sentiment](https://github.com/Ermon1/Predicting_Price_Moves_with_News_Sentiment)
+![NLP & Finance](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)  
 Python | NLP & Finance  
 💡 **End-to-End:** Collected news headlines → NLP sentiment extraction → aligned with stock prices → built predictive analytics pipeline.  
 
 ### [ANN from Scratch](https://github.com/Ermon1/ANN_from-scratch-)
+![Neural Network](https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif)  
 Python | Neural Networks  
 💡 **End-to-End:** From dataset preparation → building ANN from scratch → training & evaluation → understanding deep learning fundamentals.
+ 
+
 
 ### Other End-to-End Projects
 - **shiping_data_product:** Python | Data pipelines for shipping analytics  
