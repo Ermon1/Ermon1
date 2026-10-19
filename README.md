@@ -99,35 +99,35 @@ I'm a **Data Scientist and Machine Learning Engineer** with a strong focus on **
         <br />
         <strong>Expert</strong>
         <br />
-        <small>5+ years</small>
+        <small>3+ years</small>
       </td>
       <td align="center" width="20%">
         <img src="https://img.shields.io/badge/Machine_Learning-6C63FF?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="ML" />
         <br />
         <strong>Expert</strong>
         <br />
-        <small>4+ years</small>
+        <small>2+ years</small>
       </td>
       <td align="center" width="20%">
         <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning" />
         <br />
         <strong>Advanced</strong>
         <br />
-        <small>3+ years</small>
+        <small>2+ years</small>
       </td>
       <td align="center" width="20%">
         <img src="https://img.shields.io/badge/MLOps-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="MLOps" />
         <br />
         <strong>Advanced</strong>
         <br />
-        <small>3+ years</small>
+        <small>2+ years</small>
       </td>
       <td align="center" width="20%">
         <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
         <br />
         <strong>Advanced</strong>
         <br />
-        <small>4+ years</small>
+        <small>2+ years</small>
       </td>
     </tr>
   </table>
